@@ -1,7 +1,7 @@
 # Sistema-de-Ventas-Restaurante
 Sistema de Ventas de un Restaurante
 
-El siguiente proyecto consta de un Sitio Web y sus sistema de Ventas
+El siguiente proyecto consta de un Sitio Web y su sistema de Ventas
 
 ![image](https://user-images.githubusercontent.com/86627479/124021909-bee43e00-d9b1-11eb-8c6c-d7c2f13dd5d6.png)
 
