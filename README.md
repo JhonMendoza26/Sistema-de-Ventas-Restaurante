@@ -1,6 +1,8 @@
 # Sistema-de-Ventas-Restaurante-Parte-1
 Sistema de Ventas de un Restaurante
 
+La parte 2 esta disponible en el siguiente enlace, debido a que pesa arriba de 25 MB no se pudo subir aquí (NOTA: Descromprimir el archivo y colocar la carpeta "SistemaVentas" dentro de "tu-carpeta-proyecto/SistemaVentas" para que funcione correctamente): https://drive.google.com/file/d/1_BxyNIZ7RBi7Ojxb8ZQBRHge--sLeuFs/view?usp=sharing
+
 El siguiente proyecto consta de un Sitio Web y su sistema de Ventas
 
 ![image](https://user-images.githubusercontent.com/86627479/124021909-bee43e00-d9b1-11eb-8c6c-d7c2f13dd5d6.png)
